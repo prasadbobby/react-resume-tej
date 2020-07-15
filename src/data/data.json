@@ -1,0 +1,14 @@
+{
+	"profiles":[
+		{
+			"basic":{
+				"name":"Apssdc Summer Training",
+				"role":"Implementing Web Design using ReactJs",
+				"phone":"8328028900",
+				"email":"sairam.d@apssdc.in",
+				"des":"The main objective of this React Certification course is to help you become familiar with the process and gain the skills you'll need to become a professional React developer. You will learn the fundamentals of React through self-paced and instructor-led training to understand and build React components and structure applications with Redux."
+			}
+		}
+		
+	]
+}
